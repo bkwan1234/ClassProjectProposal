@@ -1,1 +1,65 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 60px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: orange;
+    margin: 0;
+    padding: 0px;
+}
+
+.center-list-container {
+    text-align: center; 
+    margin-top: 50px;
+}
+
+.centered-list {
+    list-style-position: inside;  /
+    display:inline-block  
+    text-align:center
+    padding: 0;  
+    margin: 0;  
+}
+
+.centered-list li {
+    font-size: 18px;  
+    margin-bottom: 10px;  
+}
+
+
+headers {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+h1, h2 {
+    color: black;
+}
+
+ul, ol {
+    margin: 0 0 20px 20px;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+strong {
+    color: red;
+}
 
